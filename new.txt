@@ -1,1 +1,1 @@
-demo new hi hello (git fetch and merge demo)
+demo new hi hello
